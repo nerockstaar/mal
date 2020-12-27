@@ -1,0 +1,19 @@
+body {
+    background-image: url(/img/bg.jpg);
+}
+
+.mal {
+    width: 377px;
+    height: 500px;
+}
+
+.mal2 {
+    width: 276px;
+    height: 500px;
+}
+
+.block__tittle {
+    margin-left: 380px;
+    margin-top: -1035px;
+    color: #fff;
+}
